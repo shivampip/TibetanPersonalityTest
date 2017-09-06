@@ -26,8 +26,5 @@ Tibetan Personality Test
 
 * **Shivam Agrawal** - [Rising Hope](http://risinghopeapps.weebly.com/)
 
-### License 
-* see [LICENSE](https://github.com/username/appname/blob/master/LICENSE.md) file
-
 ### Version 
 * Version 1.2.0
