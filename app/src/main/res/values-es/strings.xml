@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tibetan Personality Test</string>
+    <string name="appId">ca-app-pub-6385771930770544~2631675310</string>
+    <string name="result_ad_unit_id">ca-app-pub-6385771930770544/6922274116</string>
+    <string name="finish_inter_ad_id">ca-app-pub-6385771930770544/7347749717</string>
+    <string name="desQ3">Piensa en alguien, que también te conoce y es importante para ti, que puedes relacionar con los siguientes colores. No repita su respuesta dos veces. Nombre sólo una persona para cada color:</string>
+    <string name="desQ1">Ponga los siguientes 5 animales en el orden de su preferencia</string>
+    <string name="desQ2">Escriba una palabra que describa cada uno de los siguientes:</string>
+    <string name="dog">Perro</string>
+    <string name="cat">Gato</string>
+    <string name="rat">Rata</string>
+    <string name="coffee">café</string>
+    <string name="sea">Mar</string>
+    <string name="reset">Reiniciar</string>
+    <string name="next">Siguiente</string>
+    <string name="question_2">Pregunta 2</string>
+    <string name="question_1">Pregunta 1</string>
+    <string name="cow">VACA</string>
+    <string name="tiger">TIGRE</string>
+    <string name="sheep">OVEJA</string>
+    <string name="horse">CABALLO</string>
+    <string name="pig">CERDO</string>
+    <string name="question_3">Pregunta 3</string>
+    <string name="yellow">Amarillo</string>
+    <string name="orange">naranja</string>
+    <string name="red">rojo</string>
+    <string name="white">Blanco</string>
+    <string name="green">Verde</string>
+    <string name="finish">Terminar</string>
+    <string name="motivation">"Sigue tus sueños. Usted se sorprenderá de lo que puede lograr. "</string>
+    <string name="title1">Muy interesante</string>
+    <string name="des1">El Dalai Lama sugiere que lo leas para ver si funciona para ti.</string>
+    <string name="title2">Sólo 3 preguntas</string>
+    <string name="des2">Y las respuestas te sorprenderán.</string>
+    <string name="result">Resultado</string>
+    <string name="title3">Respondida Honest</string>
+    <string name="des3">Te dirá mucho sobre tu verdadero yo.</string>
+    <string name="career">CARRERA</string>
+    <string name="pride">ORGULLO</string>
+    <string name="love">AMOR</string>
+    <string name="family">FAMILIA</string>
+    <string name="monet">DINERO</string>
+    <string name="ans1Init">Sus prioridades en su vida. \n</string>
+    <string name="ans21">● Su personalidad es %1$s . \n</string>
+    <string name="ans22">● La personalidad de su pareja es %1$s . \n</string>
+    <string name="ans23">● La personalidad de tus enemigos es %1$s . \n</string>
+    <string name="ans24">● Interpreta el sexo como %1$s . \n</string>
+    <string name="ans25">● Tu propia vida es %1$s . \n</string>
+    <string name="my">mi</string>
+    <string name="your">tu</string>
+    <string name="ans31">● Tu nunca olvidarás %1$s . \n</string>
+    <string name="ans32">● Se considera %1$s . \n</string>
+    <string name="ans33">● Realmente te gusta %1$s . \n</string>
+    <string name="ans34">● %1$s  es tu alma gemela. \n</string>
+    <string name="ans35">● Recordará %1$s  para el resto de su vida. \n</string>
+    <string name="exitTitle">Salir de la aplicación</string>
+    <string name="exitDes">¿Seguro que quieres dejar la prueba?</string>
+    <string name="yes">SÍ</string>
+    <string name="no">NO</string>
+    <string name="q1Des">Seleccione los prefresnces</string>
+    <string name="fillReq">Por favor rellene todas las columnas</string>
+    <string name="fillReq2">Rellena todos los bloques</string>
+    <string name="shareText" >Hola, Conócete a ti mismo por este increíble test de personalidad sugerido por Dalai Lama ....</string>
+
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tree.test.tibetan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.tree.test.tibetan.MainActivity">
+        </activity>
+        <activity android:name="com.tree.test.tibetan.Introduction" >
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.tree.test.tibetan.Question1" />
+        <activity android:name="com.tree.test.tibetan.Question2" />
+        <activity android:name="com.tree.test.tibetan.Question3" />
+        <activity android:name="com.tree.test.tibetan.Result"></activity>
+    </application>
+
+</manifest>

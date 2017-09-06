@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <stroke
+        android:width="2dp"
+        android:color="#000000"/>
+
+    <corners
+        android:radius="3dp"/>
+
+    <padding
+        android:top="@dimen/q1tvTBPad"
+        android:bottom="@dimen/q1tvTBPad"
+        android:left="@dimen/q1tvTBPad"
+        android:right="@dimen/q1tvTBPad"/>
+
+</shape>
