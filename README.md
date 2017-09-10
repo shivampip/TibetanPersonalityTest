@@ -1,5 +1,8 @@
 Tibetan Personality Test
 ======
+
+<img src="images/icon.png" width="25%"></img>
+
 **Tibetan Personality Test** is based on a personality test suggested by Dalai Lama. Just by answering 3 questions, know yourself in a much better way....
 
 #### Screenshot
