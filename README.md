@@ -28,3 +28,6 @@ Tibetan Personality Test
 
 ### Version 
 * Version 1.2.0
+
+## License 
+* see [LICENSE](/LICENSE) file
